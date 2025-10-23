@@ -1,0 +1,24 @@
+[0.923s] Invoking command in '/home/nomad/turtlebot3_ws/build/turtlebot3_teleop': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nomad/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nomad/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nomad/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps symlink_data
+[1.278s] running develop
+[1.465s] running egg_info
+[1.465s] creating turtlebot3_teleop.egg-info
+[1.482s] writing turtlebot3_teleop.egg-info/PKG-INFO
+[1.482s] writing dependency_links to turtlebot3_teleop.egg-info/dependency_links.txt
+[1.482s] writing entry points to turtlebot3_teleop.egg-info/entry_points.txt
+[1.482s] writing requirements to turtlebot3_teleop.egg-info/requires.txt
+[1.482s] writing top-level names to turtlebot3_teleop.egg-info/top_level.txt
+[1.482s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.513s] reading manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.514s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.538s] running build_ext
+[1.538s] Creating /home/nomad/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages/turtlebot3-teleop.egg-link (link to .)
+[1.539s] Installing teleop_keyboard script to /home/nomad/turtlebot3_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[1.539s] 
+[1.539s] Installed /home/nomad/turtlebot3_ws/build/turtlebot3_teleop
+[1.539s] running symlink_data
+[1.539s] creating /home/nomad/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index
+[1.540s] creating /home/nomad/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index
+[1.540s] creating /home/nomad/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[1.540s] symbolically linking /home/nomad/turtlebot3_ws/build/turtlebot3_teleop/resource/turtlebot3_teleop -> /home/nomad/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[1.540s] symbolically linking /home/nomad/turtlebot3_ws/build/turtlebot3_teleop/package.xml -> /home/nomad/turtlebot3_ws/install/turtlebot3_teleop/share/turtlebot3_teleop
+[1.571s] Invoked command in '/home/nomad/turtlebot3_ws/build/turtlebot3_teleop' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nomad/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nomad/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nomad/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps symlink_data

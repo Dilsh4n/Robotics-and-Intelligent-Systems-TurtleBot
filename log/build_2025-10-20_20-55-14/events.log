@@ -1,0 +1,14 @@
+[0.000000] (-) TimerEvent: {}
+[0.000239] (-) JobUnselected: {'identifier': 'maze_navigation'}
+[0.000254] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.000261] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.000266] (-) JobUnselected: {'identifier': 'turtlebot3_cartographer'}
+[0.000271] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.000276] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.000280] (-) JobUnselected: {'identifier': 'turtlebot3_fake_node'}
+[0.000284] (-) JobUnselected: {'identifier': 'turtlebot3_gazebo'}
+[0.000288] (-) JobUnselected: {'identifier': 'turtlebot3_navigation2'}
+[0.002353] (-) JobUnselected: {'identifier': 'turtlebot3_node'}
+[0.002381] (-) JobUnselected: {'identifier': 'turtlebot3_simulations'}
+[0.002387] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.002393] (-) EventReactorShutdown: {}
